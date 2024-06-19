@@ -1,0 +1,14 @@
+model,Price,Range ml,power,from 0-100,top speed
+model 3 standart,38990,272,380,5.80,125
+model 3 Long Range,47740,341,460,4.20,125
+model 3 Performance,54960,303,510,2.90,163
+model Y standart,44990,320,295,6.50,135
+model Y Long Range,47990,308,384,4.80,135
+model Y Performance,51490,275,456,3.50,155
+model S All Wheel Drive,66490,402,800,3.10,130
+model S Plaid,81490,359,1020,1.99,200
+model X All Wheel Drive,63990,335,800,3.80,149
+model X Plaid,86490,326,1020,2.50,149
+Truck Rear Wheel Drive,57390,250,500,6.50,112
+Truck All Wheel Drive,76390,340,600,4.10,112
+Truck Syberbeast,96390,320,845,2.60,130
